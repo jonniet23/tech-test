@@ -21,7 +21,7 @@ const Search = ({ setSearchResults }) => {
           />
           <button className="search-btn" type="submit">
             {" "}
-            Go!
+            Click to Search!
           </button>
         </form>
       </div>

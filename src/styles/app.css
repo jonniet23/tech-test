@@ -1,6 +1,7 @@
 .app {
   display: flex;
   flex-direction: column;
+  background-color: rgb(92, 212, 236);
 }
 
 .nasa-logo {

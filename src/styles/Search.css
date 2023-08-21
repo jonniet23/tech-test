@@ -2,7 +2,10 @@
   margin: auto;
   width: 20%;
   height: 50px;
-  border-radius: 11px;
+  border-radius: 150px;
   font-size: 20px;
   padding: 0 10px;
+}
+.search-btn {
+  width: 10%;
 }
